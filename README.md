@@ -30,7 +30,7 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a> 
   <a href="mailto:towijin2100@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:towijin2100@gmail.com"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjhsun1994@naver.com)](mailto:jjhsun1994@naver.com)
