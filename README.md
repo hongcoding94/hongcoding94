@@ -25,7 +25,7 @@
   <hr/>
   <!-- 연락 수단 -->
   
-  ### 📲 contact 📲
+  ### :octocat: contact :octocat:
   </a> <a href="https://instagram.com/hongcoding_dev">
       <img src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=Instagram&link=https://instagram.com/hongcoding_dev/"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -43,22 +43,22 @@
 <!-- 기술 스택 -->
 <div align="center">
 
-  ### Back-End
+  ### :new_moon: Back-End :new_moon:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 
 
-  ### Front-End
+  ### :full_moon: Front-End :full_moon:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
-  ### DevOps
+  ### :computer: DevOps :computer:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
-  ### Tools & Collaborations
+  ### :notebook_with_decorative_cover: Tools & Collaborations :notebook_with_decorative_cover:
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
