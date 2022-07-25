@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=77)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome%20to%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=82)
 
 </div>
 
@@ -20,7 +20,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
   <br>
   &nbsp; &nbsp;
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100/)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
   
   <hr/>
   <!-- 연락 수단 -->
@@ -36,7 +37,7 @@
   </a>
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjhsun1994@naver.com)](mailto:jjhsun1994@naver.com)
   <a href="https://utopian-hollyhock-4d7.notion.site/DIC-The-data-is-coming-e817b85e2fbf497ea05b0e4c54a56383">
-    <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=White"/>
   </a>
 </div>
 
