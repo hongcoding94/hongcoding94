@@ -19,9 +19,8 @@
   &nbsp; &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
   <br>
-  &nbsp; &nbsp;
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
   
   <hr/>
   <!-- 연락 수단 -->
