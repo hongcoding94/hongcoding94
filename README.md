@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome%20to%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=82)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0%:FF2CDF,100%:2D27FF&height=260&section=header&text=Welcome%20to%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=82)
 
 </div>
 
