@@ -9,22 +9,9 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0%:FF2CDF,100%:2D27FF&height=260&section=header&text=Welcome%20to%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=82)
 
-</div>
-
-<hr/>
-
-<div align="center">
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight)
-  <br>
+  <p><b>SI 2년차 백엔드 개발자로 활동 중인 정진홍입니다.</b></p>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
-  &nbsp; &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
-  
-  <hr/>
   <!-- 연락 수단 -->
-  
   ### :octocat: contact :octocat:
   </a> <a href="https://instagram.com/hongcoding_dev">
       <img src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=Instagram&link=https://instagram.com/hongcoding_dev/"
@@ -38,7 +25,23 @@
   <a href="https://utopian-hollyhock-4d7.notion.site/DIC-The-data-is-coming-e817b85e2fbf497ea05b0e4c54a56383">
     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=White"/>
   </a>
+  
 </div>
+
+<hr/>
+
+<div align="center">
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight)
+  <br>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
+  &nbsp; &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
+
+</div>
+
+<hr/>
 
 <!-- 기술 스택 -->
 <div align="center">
