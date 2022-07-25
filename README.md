@@ -16,7 +16,6 @@
 <div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight) 
-  &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
   <br>
   
