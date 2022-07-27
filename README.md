@@ -40,7 +40,7 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
   &nbsp; &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/hongcoding94)
 
 </div>
 
