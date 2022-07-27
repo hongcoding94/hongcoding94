@@ -32,12 +32,12 @@
 
 <div align="center">
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight&hide_title=true)
   <br>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=towijin2100)](https://solved.ac/towijin2100)
   &nbsp; &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcoding94&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/metleeha)
 
 </div>
 
