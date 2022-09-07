@@ -10,6 +10,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0%:FF2CDF,100%:2D27FF&height=220&section=header&text=Welcome%20to%20my%20Github&fontSize=64&animation=fadeIn&fontAlignY=38&desc=hongcoding94&descAlignY=51&descAlign=82&fontColor=FFFFFF)
 
   <p><b>SI 2년차 백엔드 개발자로 활동 중인 정진홍입니다.</b></p>
+  <p>개인 이력서는 아래 노션을 참고해주시면 감사하겠습니다.</p>
   
   <!-- 연락 수단 -->
   ### :octocat: contact :octocat:
