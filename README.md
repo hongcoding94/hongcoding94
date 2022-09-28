@@ -35,7 +35,10 @@
 <hr/>
 
 <div align="center">
-
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hongcoding94&theme=onedark&margin-w=12&column=-1)](https://github.com/hongcoding94/github-profile-trophy)
+  <br>
+  
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongcoding94&show_icons=true&theme=tokyonight&hide_title=true)
   <br>
   
